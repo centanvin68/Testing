@@ -21,4 +21,11 @@ public class DoWhileInfinite {
 			System.out.println("while loop infinite");
 			i++;
 		}
+
+
+
+                       for( ;  ;  )
+		{
+			System.out.println("for loop infinite");
+		}
 	}
