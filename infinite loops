@@ -12,4 +12,13 @@ public class DoWhileInfinite {
 		}
 		while(k!=0);
 		k++;
+
+
+
+               int i=1;
+		while(i!=0)
+		{
+			System.out.println("while loop infinite");
+			i++;
+		}
 	}
