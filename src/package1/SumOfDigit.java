@@ -13,7 +13,7 @@ public class SumOfDigit {
 		sum= sum+b;
 		a=a/10;
 		   }
-		
+	
 		System.out.println("sum should be "+sum);
 		
 	}
