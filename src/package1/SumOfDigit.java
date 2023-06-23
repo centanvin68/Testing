@@ -19,6 +19,3 @@ public class SumOfDigit {
 	}
 
 }
-//suppose value a = 234
-//sum = 2+3+4 = 9
-//sum should be 9
