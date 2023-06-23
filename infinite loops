@@ -1,0 +1,31 @@
+package package1;
+
+public class DoWhileInfinite {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int k=1;
+		do
+		{
+			System.out.println("do while loop infinite");
+		}
+		while(k!=0);
+		k++;
+
+
+
+               int i=1;
+		while(i!=0)
+		{
+			System.out.println("while loop infinite");
+			i++;
+		}
+
+
+
+                       for( ;  ;  )
+		{
+			System.out.println("for loop infinite");
+		}
+	}
