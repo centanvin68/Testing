@@ -9,7 +9,7 @@ public class AsstWhile2InfiniteLoop {
 		{
 			System.out.println("while loop  1st infinite method");
 			i++;
-		}
+		}s
 		int j=1;
 		while(j>0)
 		{
