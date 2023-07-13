@@ -16,25 +16,30 @@ public class AsstStarPattern1 {
 		}
 		
 		System.out.println("Pattern2");
-		for(int i=1; i<=5;i++)
+		for(int i=5; i>0;i--)
 		{
-			for(int j=5;j<=5;j--)
+			for(int j=i;j>0;j--)
 			{
 			System.out.print(" ");
 			}
-			System.out.println("*");
+			for (int k=3;k>=i;k--)
+			{
+				System.out.println("*");	
+			}
+			
 		}
 		
-//		
-//		System.out.println("Pattern3");
-//		for(int i=1; i<=5;i++)
-//		{
-//			for(int j=0;j<i;j++)
-//			{
-//			System.out.print("*");
-//		    }
-//			System.out.println();
-//		}
+		
+		System.out.println("Pattern3");
+		for(int i=1; i<=5;i++)
+		{
+			for(int j=5;j>=i;j--)
+			{
+			System.out.print("*");
+		    }
+			System.out.println();
+     	}
+			
 //		System.out.println("Pattern4");
 //		for(int i=1; i<=5;i++)
 //		{
