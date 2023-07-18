@@ -24,7 +24,7 @@ public class AsstObjectPractice {
 	{
 		
 	}
-	public void write()
+	public void type()
 	{
 		
 	}
@@ -35,6 +35,104 @@ public class AsstObjectPractice {
 		double gbsize;
 		double ramsize;
 	}
+	
+	
+	-------------------------------------------
+	----------------------------------------------
+	
+	
+	class Human
+	{
+		string name;
+		int age;
+		string skintone;
+		double height;
+		double weight;
+		Hair colour;
+	}
+	
+	public void talk()
+	{
+	}
+	
+	public void walk()
+	{
+	}
+	
+	public void write()
+	{
+	}
+	
+	public void read()
+	{
+	}
+	 class Hair
+	 {
+		 string colour;
+		 double thickness;
+		 double length;
+	 }
+		 
+---------------------------------------------------
+-----------------------------------------------------
+
+     class SportMan
+      {
+	  string name;
+	  int age;
+	  string event;
+	  double height;
+	  double weight;
+      }
+
+  public void diet()
+  {
+  }
+  public void exercise()
+  {
+  }
+  public void waterconsumption()
+  {
+  }
+  public void practicehours()
+  {
+  }
+  public void sleep()
+  {
+  }
+  
+  -------------------------------------------------
+  ----------------------------------------------------
+  
+  class TestCase
+  {
+	  string applicationname;
+	  string testsuite;
+	  int numberofcases;
+	  Status passorfail;
+  }
+  
+  public void steps()
+  {
+  }
+  public void error()
+  {
+  }
+  public void priority()
+  {
+  }
+  public void severity()
+  {
+  }
+  public void bugsdescription()
+  {
+  }
+  
+  class Status()
+  {
+	  
+  }
+  
 	
 	
 	
